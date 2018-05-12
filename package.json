@@ -28,7 +28,7 @@
     "pre-commit": "^1.2.2",
     "standard": "^11.0.0",
     "swagger-parser": "^4.1.0",
-    "swagger-ui-dist": "3.14.0",
+    "swagger-ui-dist": "3.14.2",
     "tap": "^11.1.4"
   },
   "dependencies": {
